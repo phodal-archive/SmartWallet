@@ -1,0 +1,2 @@
+# SmartWallet
+Another Smart Wallet
